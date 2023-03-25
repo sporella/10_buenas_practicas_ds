@@ -1,0 +1,92 @@
+---
+title: "10 buenas prácticas para comenzar en Ciencia de Datos"
+author: "Stephanie Orellana"
+format:
+  revealjs:
+    theme: styles.scss
+---
+
+<center><img src="http://anabelforte.com/wp-content/uploads/2020/06/3patas.png" alt= “” width="900px" ></center>
+
+# 1. Dejar de analizar datos de juguete
+
+- Dejar de hacer tutoriales y cursos cortos
+- Analizar set de datos reales
+- Acá dejo uno de mis set de datos reales favoritos para practicar:
+
+[INFORMES ESTADÍSTICOS MENSUALES DEL TRÁFICO AÉREO](http://www.jac.gob.cl/estadisticas/informes-estadisticos-mensuales-del-trafico-aereo/)
+
+# 2. Aprender orden y limpieza de datos con código
+
+- Es una habilidad fundamental
+- No todo es perfecto como en los tutoriales
+- Permite resultados replicables y reproducibles
+
+# 3. Documentar
+
+- Aprender Markdown
+- Usar [Jupyter Notebooks](https://jupyter.org), [Quarto](https://quarto.org), [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), etc.
+- Documentar aunque sea de uso personal, tu yo del futuro lo agradecerá
+- También aplica a tener un portafolio de proyectos (github, sitio web)
+- Esta práctica también ayuda a mejorar nuestras habilidades comunicativas
+
+# 4. Leer la documentación
+
+- Todas las respuestas están ahí
+- Utilizar mal una función (sobre todo las estadísticas) nos puede llevar a <span style="color:#10d5eb;"> errores fantasma </span>
+
+# 5. Mantener el orden
+
+- Utilizar nombres explicativos en variables, archivos, encabezados, en todo. ([Recurso](https://sporella.github.io/nombrar_cosas/#1))
+
+- Mantener un sistema de carpetas que te permita una fácil navegación dentro y fuera del código ([Recurso](https://www.panicoenlaxbox.com/post/organizacion-proyecto-python/))
+
+- Utilizar un gestor de paquetes y ambientes
+
+- Después de una <span style="color:#10d5eb;"> "semana del caos" </span>, tómate un tiempo para ordenar
+
+# 6. Aprender (y usar) control de versiones
+
+- Habilidad fundamental a la hora de buscar trabajo
+
+- Puedes practicar con repositorios "de mentira" con otras personas
+
+- También puedes practicar haciendo contribuciones pequeñas a proyectos de código abierto
+
+- Nota: nadie se sabe todos los comandos de git
+
+# 7. No todos los datos son para modelar
+
+- No olvidar el análisis exploratorio
+
+- Acá es cuando entran los conocimientos de estádistica y por sobre todo, el criterio.
+
+- Pensar en las necesidades del cliente
+
+- Un modelo simple muchas veces es mejor que uno más complejo
+
+# 8. Conocer tu nicho y tus límites
+
+- ¿En qué campo tienes conocimientos?
+- Compartir hallazgos
+- Trabajar en equipo
+- Hacer todas las preguntas
+
+# 9. Ojo con la magia de la programación
+
+- No porque pueda hacer 100 gráficos en loop eso es un resultado valorable
+- Es mejor un (1) gráfico bien pensado
+- Aplica para tablas, modelos y todo tipo de resultados
+- Aplica a cuando escribo informes también
+
+# 10. Hacer pruebas de concepto
+
+- A veces programando perdemos la perspectiva de lo que estamos haciendo, lo cual nos puede llevar a errores.
+- Hacer pruebas con una porción pequeña de los datos y probar que funcione primero antes de correr algo que puede demorar 2 horas y estar mal.
+
+---
+
+
+<center><img src="https://dezyre.gumlet.io/files.dezyre.com/images/blog/Data+Scientist+Skills+Must+Have’s_1.png?w=1080&dpr=1.0" alt= “” width="650px" ></center>
+
+[Top 10 Data Scientist Skills To Get You Hired in 2023](https://www.projectpro.io/article/top-10-data-science-skills-to-master-in-2021/134)
